@@ -5,7 +5,6 @@ public class Main {
 	public static void main(String[] args) {
 		 System.out.println("Practica 4 - Git casos reales");
 		 System.out.println("Miguel Ángel Morejón Montero");
-		 System.out.println("Este es un mensaje absurdo... Punto 6.2");
 	}
 
 }
